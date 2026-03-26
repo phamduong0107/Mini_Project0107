@@ -1,1 +1,1 @@
-# Linked_List_Project
+# Mini Project
